@@ -1,1 +1,1 @@
-## collect the python code for files process
+## collect the python code for file processing
